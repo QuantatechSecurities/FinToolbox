@@ -1,5 +1,5 @@
 # QUANTATECH SECURITIES **FinToolBox**
-## Open source python library for asset risk/return management
+## Open source python library for risk/return asset management
 
 **FinToolBox** features eight simple functions for quicker risk/return calculations.
 
